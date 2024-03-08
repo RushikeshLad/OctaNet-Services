@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="landing.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="Topmain" >
+    <div class="top">
+        <div class="overlay">
+            <div id="text">
+                <h1>Images</h1>
+                <div class="images">
+                    <img src="https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" height="250px">
+                </div>
+                <div class="rtext">
+                    <p>mesmirizing</p>
+                    <p>astronising</p>
+                </div>
+                <div class="icons">
+                    <i class="ri-twitter-line"></i>
+                    <i class="ri-instagram-line"></i>
+                    <i class="ri-facebook-fill"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        <div id="Bottommain">
+            <div class="bottom">
+                <div class="b1">
+                    <h1>Populor</h1>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam iste, earum pariatur, animi adipisci sed at magnam ratione ipsum neque enim accusamus dolorum, fugit accusantium voluptatum doloribus laborum cupiditate perspiciatis. Accusamus minus quas maxime nulla totam incidunt consequatur quisquam, fuga ipsum iure odit mollitia perferendis voluptatum sunt rerum? Aperiam, sunt nostrum. Autem facilis neque temporibus harum, alias similique maxime accusamus quibusdam quod, sequi veniam sit incidunt suscipit laudantium quam dolorum distinctio quae hic ratione dolores libero facere doloribus aliquid inventore! Dolore expedita recusandae beatae eum soluta corporis eius quae officia natus nisi? Corrupti tenetur iure earum, excepturi reiciendis dolore pariatur?</p>
+    
+                </div>
+                <div class="b2">
+                    <div class="up">
+                        <h1>Latest</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, voluptatem omnis iste aliquid magni sint fuga. Odio fugit necessitatibus, aliquid consequatur, recusandae laboriosam exercitationem nam vitae itaque commodi cumque maxime totam porro dolorum ipsam labore voluptas nobis blanditiis ex. Sed tenetur explicabo atque, qui assumenda praesentium inventore nostrum eligendi voluptatem.</p>
+    
+                    </div>
+                    <div class="down">
+                        <h1>More...</h1>
+                    </div>
+                </div>
+                <div class="b3">
+                    <div class="overlay">
+                        <p>Privacy Policy</p>
+                        <p>Term And Conditions</p>
+                        <p>Contact Us</p>
+                        <p>About Us</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+            
+</body>
+</html>
